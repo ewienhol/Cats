@@ -1,7 +1,3 @@
 lena is a cat.
-Greg is allergic.
-hello.
-
-I have added a line here.
 it doensn't make any sense
 
